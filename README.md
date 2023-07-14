@@ -78,6 +78,6 @@ SovietThief is licensed under the <a href="https://mit-license.org/">MIT License
 ## Errors?
 
 -   Make an [issue](https://github.com/addi00000/empyrean/issues)
--   Dm me on [zdetp](https://discord.gg/)
+-   Dm me on discord [zdetp](https://discord.gg/)
 
 <img src="img/footer.png">
