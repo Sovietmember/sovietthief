@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/issues/addi00000/empyrean?color=%23000000&logoColor=%23000000">
     <img src="https://img.shields.io/github/issues-closed/addi00000/empyrean?color=%23000000&logoColor=%23000000">
     <br>
-    Due to constant Discord terminations I will not be making a new support server. For urgent contact: Discord : zdetp
+    Due to constant Discord terminations I will not be making a new support server. For urgent contact: Discord : oxyteam
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
@@ -78,6 +78,6 @@ SovietThief is licensed under the <a href="https://mit-license.org/">MIT License
 ## Errors?
 
 -   Make an [issue](https://github.com/addi00000/empyrean/issues)
--   Dm me on discord [zdetp](https://discord.gg/)
+-   Dm me on discord [oxyteam](https://discord.gg/)
 
 <img src="img/footer.png">
